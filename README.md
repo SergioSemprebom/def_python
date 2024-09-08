@@ -1,8 +1,5 @@
 # def_python
 
-Dê vida ao seu README com Funções Python: Um Guia para Iniciantes
-O que são funções Python e por que usá-las no seu README?
-
 Funções Python são blocos de código reutilizáveis que realizam tarefas específicas. No contexto do seu README, elas podem ser usadas para:
 
 Demonstrar funcionalidades: Mostre como usar seu projeto com exemplos de código concisos e funcionais.
